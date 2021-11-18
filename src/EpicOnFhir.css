@@ -1,0 +1,10 @@
+.epic{
+  background-color: red;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+}
+
+.epic:hover{
+text-decoration: underline;
+}
