@@ -1,6 +1,6 @@
 {
     "name": "epic-on-fhir-login",
-    "version": "1.0.4",
+    "version": "2.0.0",
     "description": "",
     "main": "./lib/EpicOnFhir.js",
     "license": "MIT",
@@ -8,14 +8,25 @@
         "build": "webpack"
     },
     "keywords": [
-        "react-epic-on-fhir"
+        "react-epic-on-fhir",
+        "fhir",
+        "epic",
+        "FHIR"
     ],
-    "author": "Vineet Mishra (vineetmishrahbk@gmail.com)",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vi519/Epic-On-Fhir"
+      },
+    "author": {
+        "name": "Vineet Mishra",
+        "email": "vineetmishrahbk@gmail.com"
+      },
     "peerDependencies": {
         "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
     },
+    "homepage": "https://github.com/vi519/Epic-On-Fhir",
     "devDependencies": {
         "babel-core": "^6.21.0",
         "babel-loader": "^7.1.4",
