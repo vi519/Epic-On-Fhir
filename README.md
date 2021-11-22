@@ -3,6 +3,7 @@
 Include This in you file:
 Do npm i epic-on-fhir-login --force (if needed)
 ```
+import EpicOnFhir from 'epic-on-fhir-login'
 <EpicOnFhir
 redirectUri={redirectUri}
 client_id={client_id}
