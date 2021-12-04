@@ -1,7 +1,7 @@
 # How to use:
 
 Include This in you file:
-Do npm i epic-on-fhir-login --force (if needed)
+Do npm i epic-on-fhir-login --force (try if needed )
 ```
 import EpicOnFhir from 'epic-on-fhir-login'
 <EpicOnFhir
